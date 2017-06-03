@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+title: Welcome to project
 
 You can use the [editor on GitHub](https://github.com/Vidushi12/vidushi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
